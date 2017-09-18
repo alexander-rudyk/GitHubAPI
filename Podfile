@@ -7,6 +7,10 @@ target 'GitHubAPI' do
 
   # Pods for GitHubAPI
 
-  pod ‘Alamofire’
+  pod 'Alamofire'
+  pod 'PINRemoteImage'
+  pod 'Locksmith'
+  pod 'XLForm'
+  pod 'BRYXBanner'
 
 end
